@@ -1,4 +1,4 @@
-# Teste Técnico de Engenharia de Dados
+# Exercício de Engenharia de Dados
 
 > Queremos que, a partir dos dados disponibilizados, você responda, de preferência com gráficos às
 seguintes questões:
